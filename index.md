@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## The Inheritance
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+![avatar](https://i.ibb.co/HP7Zmss/9780385690621-1.jpg)
+<br/>
+<br/>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/HeartsInvisibleFury/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+作品：The Heart’s Invisible Furies <br>
+作者：John Boyne <br>
+评分：4.2/5 <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+关键词：1945-2015史诗；爱尔兰；天主教；反同；荷兰/纽约异乡客；归乡
 
-### Markdown
+1945年，年轻的女孩Catherine被未婚怀孕，在天主教风气保守的爱尔兰小镇，女孩被神父当众驱逐，一个人坐上公车来到了都柏林。在车上，女孩遇到了一对同样年轻的同志情侣Sean和Jack. 三人成了好朋友，之后女孩住进了Sean, Jack在都柏林的公寓中，在怀孕期间接受两人的照顾友谊渐深。然而，在女孩的临盆夜，Sean恐同的天主教父亲闯进公寓当场打死了Sean，Jack被重伤生死未卜，Sean的父亲对着怀孕的Catherine也狠下毒手，把她打到昏厥丢到暴风雨的街道上，她在昏迷前生下了孩子。在风暴中，我们的主人公Cyril出生了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+全书由11个章节组成，每个片段间隔7年，总共记录了Cyril从1945年出生到2015年70岁的漫长岁月。Cyril并没有由母亲抚养，而是被人捡走最后被送到了收养孩子的都柏林中上产Avery家庭。在7岁，Cyril经历了作家养母的古怪脾气和直爽性格、银行家养父的官司大战、养父母的开放式关系和最终引发的全国性大闹剧，而他也在这个年纪情窦初开，隐隐约约喜欢上了养父律师的儿子Julian. 
 
-```markdown
-Syntax highlighted code block
+14岁的Cyril在寄宿学校里和Julian再次成为了同学，在那里，他经历了更多的性觉醒、活活气死了天主教神父、Julian被绑架时他的情书被警方发现。21岁的Cyril游走于地下一夜情，他和酒家老板娘Catherine成为了好友并向她出了柜，此时他还并不知道对方是自己的生母，然而一场意外差点让他因性取向暴露死于非命。28岁的Cyril和Julian的妹妹Alice订婚，他在婚前向Julian坦白了他对Julian的情感，同时拒绝了婚约，尽管Julian知道真相后强行逼他结婚，但Cyril最后还是跑了，这一跑直接跑出了爱尔兰。
 
-# Header 1
-## Header 2
-### Header 3
+35岁的Cyril在荷兰，42岁的Cyril在纽约。在同性情感合法的荷兰，Cyril认识了他的医生丈夫Bastiaan，两人最终收养了一个弃婴，组成了一个特别的小家庭。八十年代来临，HIV危机爆发，Bastiaan主动带着全家搬到纽约救助他们这个群体。Cyril作为异乡人游走于阿姆斯特丹和纽约，但在这两个没有宗教束缚的地方他却第一次感受到了家的感觉。在纽约Cyril再次遇到了Julian，两人在Julian死于HIV前实现了和解。然而他的命运并不是一帆风顺，纽约HIV潮的爆发引爆了美国人的恐同心理，一场意外让Cyril再次孑然一身回到了爱尔兰。
 
-- Bulleted
-- List
+1994年的Cyril已经49岁，爱尔兰风气悄然变化，社会变得更加宽容。然而面对过往历史的阴霾，Cyril始终无法解开他的心结。49岁的Cyril面对着重病的养父，第一次得到了养父的承认。56岁的Cyril重新见到了Alice和她的儿子Liam。63岁的Cyril意外和Catherine相认，找到了自己的亲生母亲。Cyril在归乡的途中不断和过去的人和解，最终他活到了2015年70岁，见证了爱尔兰同性婚姻的合法，放下了自己最大的心结。
 
-1. Numbered
-2. List
+这本书实在是太长了(有柳原汉雅A Little Life的三分之二)，全部读完真的就像跟着Cyril的人生轨迹走了一遍。这本书感觉就很直白不加雕琢，在市面小说里不多见的轻描写轻心理轻细节，主要靠人物对话推进剧情，而且作者擅长平铺直述，没有铺垫，没有停顿，读这本书就像是情节滚滚而来挡都挡不住，你还想在某个小高潮片段emo一下，Cyril已经腾空而起进入旅程的下一阶段。我不是特别感冒这种风格，但看GR评论大部分人很喜欢这种比较赤裸的小说叙述方式。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/HeartsInvisibleFury/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
