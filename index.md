@@ -1,4 +1,4 @@
-## The Inheritance
+## The Heart’s Invisible Furies
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 ![avatar](https://i.ibb.co/HP7Zmss/9780385690621-1.jpg)
 <br/>
